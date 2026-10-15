@@ -1,0 +1,16 @@
+[project]
+name = "ad-performance-analysis"
+version = "0.1.0"
+description = "Ad Performance Analysis for a Facebook app-install campaign"
+readme = "README.md"
+authors = [
+    { name = "Miguel Alarcon", email = "miguelfdagervas@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.6",
+]
